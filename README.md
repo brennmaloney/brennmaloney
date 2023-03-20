@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on stock web scrapper using BS4 in Python and react personal page
 - 🌱 I’m currently learning React
 - 📫 How to reach me: brennan.maloney02@gmail.com
+- 
+- Link to [Linkedin](https://www.linkedin.com/in/brennan-maloney)
+- Link to [Twitter](https://twitter.com/_brennanmaloney)
 
 
 <!--
