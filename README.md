@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on stock web scrapper using BS4 in Python and react personal page
+- 🌱 I’m currently learning React
+- 📫 How to reach me: brennan.maloney02@gmail.com
+
+
 <!--
 **brennmaloney/brennmaloney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
