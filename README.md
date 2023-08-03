@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a stock web scrapper using BS4 in Python and react personal page
+- 🔭 I’m currently working on a stock web scrapper using BS4 in Python and using react to make a personal page
 - 🌱 I’m currently learning React
 - 📫 How to reach me: brennan.maloney02@gmail.com
 - 
