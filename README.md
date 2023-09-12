@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me: brennan.maloney02@gmail.com
 - 
-- Link to [Linkedin](https://www.linkedin.com/in/brennan-maloney-a2349524a/)
-- Link to [Twitter](https://twitter.com/_brennanmaloney)
+- [Linkedin](https://www.linkedin.com/in/brennan-maloney-a2349524a/)
+- [Twitter](https://twitter.com/_brennanmaloney)
 
 
 <!--
