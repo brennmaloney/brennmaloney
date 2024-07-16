@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a stock web scrapper using BS4 in Python and using react to make a personal page
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on a travel website using Svelte
+- 🌱 I’m currently learning Svelte
 - 📫 How to reach me: brennan.maloney02@gmail.com
 - 
 - [Linkedin](https://www.linkedin.com/in/brennanmaloney)
